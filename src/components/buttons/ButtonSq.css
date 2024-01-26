@@ -1,0 +1,15 @@
+.square-button{
+    width: 33%;
+    margin: 1%;
+    border: none;
+    padding:10px 25px;
+    font-family: 'Open Sans', 'sans-serif';
+    font-size: 16px;
+    font-weight: bold;
+}
+
+@media (max-width:768px) {
+    .square-button{
+        width: 40%;
+    }
+}
